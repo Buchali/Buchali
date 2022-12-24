@@ -7,10 +7,10 @@
 [![Github](https://img.shields.io/github/followers/buchali?label=Follow&style=social)](https://github.com/buchali)
 
 - 🤔 I’m currently reading [Fluent Python](https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/). Check it out if interested.
-- 🌱 I also a member of PyTopia community. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai).
+- 🌱 I'm also a member of PyTopia community. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai).
 - 📫 How to reach me: amir.buchali@gmail.com
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="buchali" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="buchali" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buchali&show_icons=true&locale=en&layout=compact" alt="buchali" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=buchali&" alt="buchali" />
 </div>
