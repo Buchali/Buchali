@@ -25,8 +25,7 @@
 
 
 <div>
-  <img width="44%"  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=buchali&" alt="buchali" />
-  <img width="53.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=buchali&show_icons=true&locale=en&layout=compact" alt="buchali" />
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=buchali&" alt="buchali" />
+  <img width="35%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=buchali&show_icons=true"  alt="buchali" />
+  <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs?username=buchali&show_icons=true&locale=en&layout=compact" alt="buchali" />
 </div>
-
-
