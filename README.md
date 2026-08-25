@@ -12,6 +12,6 @@ My research focuses on domain-informed deep learning for magnetic resonance spec
 **Tools:** Python · PyTorch · scikit-learn · MATLAB · SQL · Git · Linux
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=buchali&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Amir's GitHub statistics">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buchali&layout=compact&hide_title=true&hide_border=true&theme=transparent" alt="Amir's most-used languages">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=buchali&theme=transparent" alt="Amir's GitHub statistics">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=buchali&theme=transparent" alt="Amir's repositories by language">
 </p>
